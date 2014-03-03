@@ -1,0 +1,9 @@
+{
+	"apiToken": "",
+	"userName": "",
+	"password": "",
+	"default": {
+		"projectId": 4192712,
+		"entryDesc": "working on API"
+	}
+}

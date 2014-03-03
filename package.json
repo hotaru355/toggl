@@ -1,0 +1,20 @@
+{
+  "name": "toggl-client",
+  "version": "0.0.1",
+  "description": "command line client for the Toggl API",
+  "author": "Kenta Fried <kenta@fanfair.fm>",
+  "main": "app.js",
+  "private": true,
+  "scripts": {
+    "start": "node --harmony server.js"
+  },
+  "engines": {
+    "node": "0.11.x"
+  },
+  "dependencies": {
+    "co": "*",
+    "commander": "*"
+  },
+  "devDependencies": {
+  }
+}
